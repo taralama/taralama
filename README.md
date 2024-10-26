@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend React
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me tarahero65@gmail.com
-- 😄 Pronouns: Start
+- 😄 Pronouns: Star
 
 
 <!---
